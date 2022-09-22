@@ -1,0 +1,27 @@
+{
+  "name": "TestLib",
+  "version": "0.1.0",
+  "summary": "A short description of TestLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/lixiaokai/TestLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lixiaokai": "18234126226@163.com"
+  },
+  "source": {
+    "git": "https://github.com/lixiaokai/TestLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "TestLib/Classes/**/*",
+  "resource_bundles": {
+    "TestLib": [
+      "TestLib/Assets/*.png"
+    ]
+  }
+}
