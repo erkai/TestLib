@@ -11,6 +11,7 @@
 #endif
 
 #import "MasterViewController.h"
+#import "TestViewController.h"
 
 FOUNDATION_EXPORT double TestLibVersionNumber;
 FOUNDATION_EXPORT const unsigned char TestLibVersionString[];

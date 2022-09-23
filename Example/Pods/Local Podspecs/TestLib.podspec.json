@@ -1,6 +1,6 @@
 {
   "name": "TestLib",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "summary": "A short description of TestLib.",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/lixiaokai/TestLib",
@@ -13,15 +13,10 @@
   },
   "source": {
     "git": "https://github.com/lixiaokai/TestLib.git",
-    "tag": "0.1.0"
+    "tag": "1.0.0"
   },
   "platforms": {
     "ios": "10.0"
   },
-  "source_files": "TestLib/Classes/**/*",
-  "resource_bundles": {
-    "TestLib": [
-      "TestLib/Assets/*.png"
-    ]
-  }
+  "source_files": "TestLib/Classes/**/*"
 }
