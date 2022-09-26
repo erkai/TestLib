@@ -32,6 +32,11 @@ TODO: Add long description of the pod here.
 
   s.source_files = 'TestLib/Classes/**/*'
   
+  s.subspec 'Model' do |sp|
+       sp.source_files = 'TestLib/Classes/Model/*'
+       sp.dependency 'UIModelGroup'
+
+  
   # s.resource_bundles = {
   #   'TestLib' => ['TestLib/Assets/*.png']
   # }
