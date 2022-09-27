@@ -33,7 +33,7 @@ TODO: Add long description of the pod here.
   s.source_files = 'TestLib/Classes/**/*'
   
   s.subspec 'Model' do |ss|
-       ss.source_files = 'TestLib/Classes/Model/*.{h,m}'
+       ss.source_files = 'TestLib/Classes/Models/*.{h,m}'
   end
   
   # s.resource_bundles = {
